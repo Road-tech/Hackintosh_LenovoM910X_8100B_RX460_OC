@@ -1,0 +1,2 @@
+# Hackintosh_LenovoM910X_8100B_RX460_OC
+ LenovoM910X
