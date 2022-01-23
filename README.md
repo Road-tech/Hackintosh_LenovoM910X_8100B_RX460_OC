@@ -54,15 +54,15 @@
 
 如果没有亮机U，那只能用编程器直接把BIOS提取出来，参照上面链接里的强刷教程，刷入魔改bios后，进Windows用WriteSN工具补回S/N等信息。
 
-闪电家提供的BIOS和自己修改的BIOS我都放在了[魔改BIOS]()的文件夹内，可自行下载研究。
+闪电家提供的BIOS和自己修改的BIOS我都放在了[魔改BIOS](https://github.com/Road-tech/Hackintosh_LenovoM910X_8100B_RX460_OC/tree/main/魔改BIOS)的文件夹内，可自行下载研究。
 
 ***如果你选择直接刷入这两版BIOS，而不是自己提取修改，请务必用WriteSN工具补回原机的S/N等信息***
 
 BIOS芯片为25L12873F，具体位置参考这个图（图源自SMZDM的[折了个腾](https://zhiyou.smzdm.com/member/9509386572/)）
 
-![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-21-5ecdd94a3f0322866.jpg_e1080.jpg)
+![BIOS芯片](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-21-5ecdd94a3f0322866.jpg_e1080.jpg)
 
-![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-11-5ecdd94a44bfd6611.jpg_e1080.jpg)
+![具体位置](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-11-5ecdd94a44bfd6611.jpg_e1080.jpg)
 
 ## 关于CFG-Lock
 
@@ -99,7 +99,7 @@ M920X的声卡是ALC235，而M910X的声卡是ALC294，也就是这些参数并�
 
 具体可以参考这个图：（图源自SMZDM的[折了个腾](https://zhiyou.smzdm.com/member/9509386572/)）
 
-![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-41-5ecdd94fe51db2827.jpg_e1080.jpg)
+![反向转接卡](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-00-47-41-5ecdd94fe51db2827.jpg_e1080.jpg)
 
 ## 关于BIOS设定
 
