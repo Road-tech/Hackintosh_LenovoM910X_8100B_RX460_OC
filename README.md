@@ -25,7 +25,7 @@
 
 ![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-58-47-lenovo-thinkCentre-M910x-tiny-hero-front-1.jpg)
 
-图源联想官网(https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x)[https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x]
+图源联想官网[https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x)
 
 
 
