@@ -171,6 +171,14 @@ M920X的声卡是ALC235，而M910X的声卡是ALC294，也就是这些参数并�
 
 待上传
 
+![CPU变频&显卡驱动正常](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-33-45-CPU%26%E6%98%BE%E5%8D%A1.png)
+
+![USB定制](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-33-54-USB%E5%AE%9A%E5%88%B6.png)
+
+![蓝牙工作正常](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-34-02-%E8%93%9D%E7%89%99.png)
+
+![Wi-Fi工作正常](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-34-12-Wi-Fi.png)
+
 ---
 
 # Reference/参考
