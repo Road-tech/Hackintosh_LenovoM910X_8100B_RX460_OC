@@ -21,6 +21,14 @@
 
 # 关于M910X
 
+
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-58-47-lenovo-thinkCentre-M910x-tiny-hero-front-1.jpg)
+
+图源联想官网(https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x)[https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x]
+
+
+
 联想的M910X（p320 tiny），一个非常好玩的1L迷你小主机。Q270的主板，双M.2插槽、一个PCIe扩展槽、双通道ddr4、6个USB，同时是最后一代可以刷bios上魔改U的联想小主机。再往上的M920x，P340都是双BIOS设计，无法刷bios了，也基本告别了便宜好玩的ES版CPU或者魔改U。
 
 现在这台小主机性价比非常高，700出头的价格就买到这样的强悍扩展性，放在这个价位简直无敌的存在，而且可玩性非常高。这个价格换成300系芯片组的小主机，基本都没有双M.2接口（除了dell 7080mff 低压版），更别说PCIe扩展了。而他的下一代M920X，现在还要1300的价格，相比起来只多了个typc-C接口，不过原生可以上8代U，但只能支持正式版。M910x原配的显卡为RX460，现在咸鱼原厂全新只要600左右的价格。而M920x配套的rx560现在咸鱼要差不多1000，一个性能差不多的马甲卡居然贵那么多。当然如果不追求黑苹果，只为最强的独显性能，最新的M930X，原厂可以选配到P620。当然动手能力强的可以上GTX1650，妥妥的小钢炮，就是要切挡板，考验手艺。
@@ -169,7 +177,19 @@ M920X的声卡是ALC235，而M910X的声卡是ALC294，也就是这些参数并�
 
 # Performance/展示
 
-待上传
+我已经超级无敌懒，根本不想自己拍照，都是网上现找的图，如侵删。
+
+以下图源自[English Community-Lenovo Community](https://forums.lenovo.com/t5/ThinkCentre-A-E-M-S-Series/Lenovo-M910x-Tiny-Extreme-RX-460-graphics-option-details-and-avail/m-p/3725943?page=2)以及[联想官网](https://www.lenovo.com/us/en/p/desktops/thinkcentre/m-series-tiny/m910x-tiny/11tc1mt910x)
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-11-10-50-lenovo-thinkCentre-M910x-tiny-hero.png)
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-11-12-54-lenovo-thinkCentre-M910x-tiny-mdp-ports-5.png)
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-11-12-24-lenovo-thinkCentre-M910x-tiny-left-right-side-7.png)
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-11-13-35-121854iF16DE5EBBC821E4B.png)
+
+![](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-11-13-41-121853iE5F561AB0C4920BB.png)
 
 ![CPU变频&显卡驱动正常](https://raw.githubusercontent.com/Road-tech/Road-blog-Figure/main/2022/01/24-10-33-45-CPU%26%E6%98%BE%E5%8D%A1.png)
 
