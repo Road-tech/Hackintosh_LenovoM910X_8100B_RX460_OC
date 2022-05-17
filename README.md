@@ -5,6 +5,22 @@
 
 ---
 
+2021-05-17 更新
+
+- Update Opencore to 0.8.0  
+- Update VirtualSMC to 1.2.9
+- Update SMCProcessor to 1.2.9
+- Update SMCSuperIO to 1.2.9
+- Update WhateverGreen t0 1.5.8
+- Update AppleALC to 1.7.1
+- Update LiLu to 1.6.0    
+- Update Whatevergreen to 1.5.8     
+- Update AppleALC to 1.7.1  
+- Fix some opencore config error
+- Support to macOS Monterey 12.13.1
+
+---
+
 2021-01-21 更新
 
 - Update Opencore to 0.7.7
